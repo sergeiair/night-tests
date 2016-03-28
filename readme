@@ -1,6 +1,9 @@
 cmd: npm install -g nightwatch
+cmd: java -jar selenium-server-standalone-2.52.0.jar -Dwebdriver.chrome.driver=D:\PROJECTS\Smartday\Nightwatch-tests\chromedriver_win32\chromedriver.exe
 
-cmd: java -jar selenium-server-standalone-2.52.0.jar -Dwebdriver.chrome.driver=YOUR_PATH\chromedriver_win32\chromedriver.exe
+MS
+cmd: java -jar selenium-server-standalone-2.52.0.jar -Dwebdriver.ie.driver=C:\Program Files (x86)\Microsoft Web Driver\MicrosoftWebDriver.exe
 
-
+Server only
+cmd: java -jar selenium-server-standalone-2.52.0.jar
 

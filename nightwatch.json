@@ -37,9 +37,17 @@
 
     "chrome" : {
       "desiredCapabilities": {
-        "browserName": "chrome",
+        "browserName": "chromechrome",
         "javascriptEnabled": true,
         "acceptSslCerts": true
+      }
+    },
+
+    "ie": {
+      "desiredCapabilities": {
+        "browserName" : "ie",
+        "javascriptEnabled" : true,
+        "acceptSslCerts" : true
       }
     }
   }

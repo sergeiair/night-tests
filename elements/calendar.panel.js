@@ -5,7 +5,15 @@ module.exports = {
         newWCBtn: '#newWorkcardBtn',
         iconBriefcase: '.icons8-briefcase',
         createItemBtn: '.search-list-create',
-        searchInput: 'input[type=search]',
-        searchListItems: '.customer-search-list x-list-item'
+        searchInput: '.customer-search-inner input',
+        searchListItems: '.search-item-address',
+
+        createWCCarousel: '#CreateOrderCarousel',
+        wcCarousel: '.CalendarHighlightsCarousel',
+
+        createWCDescr: 'textarea[name=description]',
+        createWCBtn: '#createWcBtn',
+        workcard: '#calendarlistlist .x-scroll-container .x-list-item',
+        workcardDescr: '.WorkcardInfoTabPanel .x-layout-card-item'
     }
 };
