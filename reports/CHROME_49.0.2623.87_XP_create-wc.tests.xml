@@ -1,11 +1,85 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites errors="0"
             failures="0"
-            tests="0">
+            tests="12">
 
   <testsuite name="create-wc.tests"
     errors="0" failures="0" hostname="" id="" package="create-wc.tests" skipped="0"
-    tests="0" time="0.000" timestamp="Mon, 28 Mar 2016 14:56:16 GMT">
+    tests="12" time="60.08" timestamp="Tue, 29 Mar 2016 12:26:42 GMT">
+  
+    <testcase name="Clearing local storage" time="1.533" assertions="0">
+    </testcase>
+  
+    <testcase name="putting creds" time="7.964" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="login attempt" time="2.115" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="opening calendar list" time="21.96" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="testing panel controls" time="4.386" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="search items" time="1.876" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="creating new wc" time="2.371" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="testing new wc" time="3.418" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="creating another one" time="5.483" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="search items once again" time="1.368" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="creating offer wc" time="2.446" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="testing new offer wc" time="5.155" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
   
   
   </testsuite>

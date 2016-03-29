@@ -3,8 +3,8 @@
             failures="0"
             tests="0">
 
-  <testsuite name="items-search.tests"
-    errors="0" failures="0" hostname="" id="" package="items-search.tests" skipped="0"
+  <testsuite name="login-logout.tests"
+    errors="0" failures="0" hostname="" id="" package="login-logout.tests" skipped="0"
     tests="0" time="0.000" timestamp="Tue, 29 Mar 2016 12:27:42 GMT">
   
   
